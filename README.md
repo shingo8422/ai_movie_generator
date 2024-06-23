@@ -3,6 +3,7 @@
 The ai_movie_generator is a program that automatically generates short movies of about 30 seconds using the following three services:
 
 - [OpenAI GPT-4](https://openai.com/index/hello-gpt-4o/)
+- [OpenAI Dall-E 3](https://openai.com/index/dall-e-3/)
 - [Eleven Labs](https://elevenlabs.io/)
 - [D-ID](https://www.d-id.com/)
 
