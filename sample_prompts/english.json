@@ -1,0 +1,25 @@
+Youtubeで日本人向けに、英語の慣用句や、日々の中で役立つ英文、単語、について
+具体的な何かを１つピックアップして、
+解説する３０秒程度のショートムービーを作りたいです。
+
+そのための台本を作成してください。
+言語は日本語でお願いします。
+
+また、解説を３段階に分けてください。
+段階ごとの解説にふさわしい画像を生成AIで生成したいので、
+そのための、プロンプトも作成してください。
+
+Outputは
+```
+{
+    "title": "xxx",
+    "chapter_1": "yyyy",
+    "chapter_1_image_prompt": "xxx yyy zzz aaaa",
+    "chapter_2": "yyyy",
+    "chapter_2_image_prompt": "xxx yyy zzz aaaa",
+    "chapter_3": "yyyy",
+    "chapter_3_image_prompt": "xxx yyy zzz aaaa"
+}
+```
+
+という形式で出力してください。

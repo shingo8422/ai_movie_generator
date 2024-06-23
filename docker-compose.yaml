@@ -1,0 +1,10 @@
+
+services:
+  app:
+    build: .
+    tty: true
+    volumes:
+      - .:/app/
+    command: "/bin/bash"
+    env_file:
+      - env
