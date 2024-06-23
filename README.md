@@ -38,3 +38,8 @@ python main.py
 ## Prompt Customize
 
 Please edit openai_generator.py.  
+
+## Sample Generated Movies
+
+- [エッフェル塔の知られざる歴史](https://www.youtube.com/shorts/U_12sopVNIY)
+- [スマートフォンの進化](https://www.youtube.com/shorts/gsL_66MWPpU)
