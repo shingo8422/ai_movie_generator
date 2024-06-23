@@ -2,11 +2,11 @@
 
 The ai_movie_generator is a program that automatically generates short movies of about 30 seconds using the following three services:
 
-- OpenAI GPT-4
-- Eleven Labs
-- D-ID
+- [OpenAI GPT-4](https://openai.com/index/hello-gpt-4o/)
+- [Eleven Labs](https://elevenlabs.io/)
+- [D-ID](https://www.d-id.com/)
 
-and the moviepy library.
+and the [moviepy](https://github.com/Zulko/moviepy) library.
 
 ## How to Use
 
@@ -38,7 +38,3 @@ python main.py
 ## Prompt Customize
 
 Please edit openai_generator.py.  
-
-or
-
-fork this repository
